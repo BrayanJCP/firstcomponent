@@ -1,4 +1,4 @@
-exports.module={
+module.exports={
   select:(idSelector,options)=>{
     var select=document.getElementById(idSelector);
     options.forEach(function(e){ 
