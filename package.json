@@ -1,5 +1,5 @@
 {
-  "name": "firstcomponent",
+  "name": "firstcomponent-example",
   "version": "1.0.0",
   "description": "First component in npm",
   "main": "index.js",
